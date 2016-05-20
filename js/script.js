@@ -1,0 +1,1 @@
+var angular.controller.PruebaController = { mensaje:"hola"; };
